@@ -183,9 +183,9 @@ if __name__ == "__main__":
     training_size = 60000
     training_sizes = [60000]
     test_size = 10000
-    batch_size = 256
-    init_rate = 0.02
-    decay_normal = 0.001
+    batch_size = 128
+    init_rate = 0.05
+    decay_normal = 0.0005
     step_size = 10
     gamma = 0.7
     total_epochs = 100
