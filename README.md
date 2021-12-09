@@ -1,2 +1,2 @@
 # N2N-Regularization  
-Code for "Network-to-Network Regularization: Enforcing Occam's Razor to Improve Generalization". Updates in Progress. 
+Code for "Network-to-Network Regularization: Enforcing Occam's Razor to Improve Generalization". 
