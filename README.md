@@ -1,3 +1,4 @@
 # N2N-Regularization  
 Code for "Network-to-Network Regularization: Enforcing Occam's Razor to Improve Generalization". 
-More details and code to be added soon.
+
+train_fns.py contains the function for training a network with 2-level N2N regularization. 
